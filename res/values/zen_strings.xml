@@ -19,6 +19,13 @@
     <string name="zen_version">ZenOS version</string>
     <string name="zen_version_default">Unknown</string>
 
+    <!-- Device Introduction -->
+    <string name="first_time_introduction_header">Welcome to the beta</string>
+    <string name="first_time_introduction_message">Experience Android like never before, fast, minimal and compact. Your privacy is our priority, personal data will
+    never be sent to us or any third party we may associate with. You are protected with trusted verification steps provided by Google. Here\'s something\'s you can do
+    to get started:\n\n- Setup lockscreen credentials\n- Turn on Adaptive brightness\n- Setup Nightlight\n- Try out themes with Color Manager</string>
+    <string name="first_time_confirm_button">GOT IT</string>
+
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Google Play</string>
 
