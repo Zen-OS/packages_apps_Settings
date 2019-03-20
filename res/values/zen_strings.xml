@@ -20,10 +20,11 @@
     <string name="zen_version_default">Unknown</string>
 
     <!-- Device Introduction -->
-    <string name="first_time_introduction_header">Welcome to the beta</string>
-    <string name="first_time_introduction_message">Experience Android like never before, fast, minimal and compact. Your privacy is our priority, personal data will
-    never be sent to us or any third party we may associate with. You are protected with trusted verification steps provided by Google. Here\'s something\'s you can do
-    to get started:\n\n- Setup lockscreen credentials\n- Turn on Adaptive brightness\n- Setup Nightlight\n- Try out themes with Color Manager</string>
+    <string name="first_time_introduction_header">Thank you for trying ZenOS</string>
+    <string name="first_time_introduction_message">Are you ready to experience Android like you never have before? ZenOS provides the power of performance with the
+    combination of stability to give you a zen like experience with your device. Your privacy is our number one priority, personal data will never be sent to us or any
+    third party we may associate with. You are protected with trusted verification steps provided by Google. Here\'s something\'s you can do to get started:\n\n- Setup
+    lockscreen credentials\n- Setup default sounds and volume levels\n- Try out various customizations with Chi</string>
     <string name="first_time_confirm_button">GOT IT</string>
 
     <!-- App details: open play store link if app is user installed -->
