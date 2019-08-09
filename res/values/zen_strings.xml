@@ -84,4 +84,9 @@
     <string name="pocket_judge_title">Pocket detection</string>
     <string name="pocket_judge_summary">Lock the screen and buttons when the device is in your pocket</string>
 
+    <!-- Battery Stats -->
+    <string name="battery_stats_reset">Reset stats</string>
+    <string name="battery_stats_message">Battery history stats are going to be reset</string>
+    <string name="ok_string">Ok</string>
+
 </resources>
